@@ -8,7 +8,7 @@ https://play.google.com/store/apps/details?id=com.snk.acarbffsp
 最終更新日 2025/10/29  
 
 参考にしたもの  
-https://milkchoco.info/archives/5562 
+https://milkchoco.info/archives/5562  
 こちらを参考にリアルバウト餓狼伝説のを作ってそれを元にしたので結局同じ事をしてる。  
 
 必要なファイル  
